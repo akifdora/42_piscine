@@ -3,3 +3,4 @@ Bu dökümanda ihtiyaç dahilindeki bütün shell komutları bulunmakta ve eklen
 
 #### pwd
 > Bulunduğumuz komutu iTerm2 üzerinden gösterir.
+> `deneme`
