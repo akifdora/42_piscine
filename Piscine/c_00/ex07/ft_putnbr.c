@@ -18,7 +18,14 @@ void ft_putchar(char c)
 }
 void ft_putnbr(int nb)
 {	
-	if (nb < 0)
+    if(nb == -2147483648)
+    {
+        ft_putchar('-');
+        ft_putchar('2');
+        ft_putchar('1');
+        write(1,"47483648", 8);
+    }
+	else if (nb < 0)
 	{
 		ft_putchar('-');
 		ft_putnbr(-nb);
