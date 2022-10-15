@@ -17,7 +17,7 @@ void	ft_print_alphabet(void)
 	char	say;
 
 	say = 97;
-	while (say >= 97 && say <= 122)
+	while (say <= 122)
 	{
 		write(1, &say, 1);
 		say++;
