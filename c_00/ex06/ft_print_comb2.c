@@ -30,13 +30,13 @@ void	ft_print_comb2(void)
 		{
 			ft_putchar((a / 10) + 48); // a değişkenimizi 10'a bölüp gelen int değerini char değişkenine çevirebilmek için 0 sayısının ascii değeri olan 48 ile toplayarak ascii'ye uygun olacak şekilde yazdırıyoruz
 			ft_putchar((a % 10) + 48); // a değişkenimizin 10'a bölümünden kalan int değerini char değişkenine çevirebilmek için 0 sayısının ascii değeri olan 48 ile toplayarak ascii'ye uygun olacak şekilde yazdırıyoruz
-			ft_putchar(' '); // boşluk yazdır
+			ft_putchar(' '); // boşluk yazdırıyoruz
 			ft_putchar((b / 10) + 48); // b değişkenimizi 10'a bölüp gelen int değerini char değişkenine çevirebilmek için 0 sayısının ascii değeri olan 48 ile toplayarak ascii'ye uygun olacak şekilde yazdırıyoruz
 			ft_putchar((b % 10) + 48); // b değişkenimizin 10'a bölümünden kalan int değerini char değişkenine çevirebilmek için 0 sayısının ascii değeri olan 48 ile toplayarak ascii'ye uygun olacak şekilde yazdırıyoruz
 			if (a != 98) // eğer a değişkeni 98'e eşit değilse
 			{
-				ft_putchar(','); // virgül yazdır
-				ft_putchar(' '); // boşluk yazdır
+				ft_putchar(','); // virgül yazdırıyoruz
+				ft_putchar(' '); // boşluk yazdırıyoruz
 			}
 		}
 	}
