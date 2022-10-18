@@ -19,7 +19,7 @@ void	ft_print_alphabet(void)
 	say = 97; // a harfinin ascii karşılığı
 	while (say <= 122) // z harfinin ascii karşılığı, say değişkeni bu sayıdan küçük veya eşit olduğu müddetçe bu döngüye girilecek
 	{
-		write(1, &say, 1); // ekrana yazdır
+		write(1, &say, 1); // say değişkenini ekrana yazdır
 		say++; // 1 arttır
 	}
 }
