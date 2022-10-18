@@ -14,5 +14,5 @@
 
 void	ft_putchar(char c)
 {
-	write(1, &c, 1); // Fonksiyonun istediği char parametresini yazdırır
+	write(1, &c, 1); // Fonksiyonun istediği char parametresini yazdırır, komutun içindeki değerler sırasıyla çalışan terminal değeri, yazdırılacak değişken, byte sayısı
 }
