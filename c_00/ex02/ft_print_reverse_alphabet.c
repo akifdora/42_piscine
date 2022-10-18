@@ -14,9 +14,12 @@
 
 void	ft_print_reverse_alphabet(void)
 {
-	int	say;
+	int	say; // say adında bir integer değişken tanımlandı
 
-	say = 123;
-	while (say-- >= 98)
-		write(1, &say, 1);
+	say = 122; // z harfinin ascii karşılığı
+	while (say >= 98) // a harfinin ascii karşılığı, say değişkeni bu sayıdan büyük veya eşit olduğu müddetçe bu döngüye girilecek
+	{
+		write(1, &say, 1); // say değişkenini ekrana yazdır
+		say--; // 1 azalt
+	}
 }
