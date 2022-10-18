@@ -1,2 +1,2 @@
-# 42Kocaeli
-42Kocaeli için gerekli ve var olan bütün dosyalar, dokümanların var olduğu repository.
+# 42Kocaeli Piscine
+42Kocaeli havuz eğitiminde size yardımcı olacak bir repository.
