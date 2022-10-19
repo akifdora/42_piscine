@@ -3,4 +3,4 @@
 
 ## Yararlı Linkler
 - https://explainshell.com -> Shell kodlarını detaylıca anlatan bir website
-- https://pythontutor.com/c.html#mode=edit -> C kodlarını sırasıyla çalıştırıp ne yaptığını adım adım gösteren bir website
+- https://pythontutor.com/c.html#mode=edit -> C kodlarını adım adım gösteren bir website
