@@ -1,7 +1,7 @@
 # 42Kocaeli Piscine
 ![mdora's 42 stats](https://badge42.vercel.app/api/v2/cl9e55uv500160gmf2vacqz6f/stats?cursusId=9&coalitionId=piscine)
 
-## Alınan Puanlar
+## Puan Tablosu
 | Proje Adı  | Alınan Puan  |   
 |---|---|
 | [c_02](https://github.com/akifdora/42kocaeli_piscine/tree/main/c_02)   | [![mdora's 42 C Piscine C 00 Score](https://badge42.vercel.app/api/v2/cl9e55uv500160gmf2vacqz6f/project/2839318)](https://github.com/akifdora/42kocaeli_piscine/tree/main/c_02)  | 
