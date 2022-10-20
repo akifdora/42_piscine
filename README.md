@@ -4,8 +4,7 @@
 ## Alınan Puanlar
 | Proje Adı  | Alınan Puan  |   
 |---|---|
-| [Shell_00](https://github.com/akifdora/42kocaeli_piscine/tree/main/shell_00)   | [![mdora's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/cl9e55uv500160gmf2vacqz6f/project/2828187)](https://github.com/akifdora/42kocaeli_piscine/tree/main/shell_00)  |  
-|   |   |
+| [shell_00](https://github.com/akifdora/42kocaeli_piscine/tree/main/shell_00)   | [![mdora's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/cl9e55uv500160gmf2vacqz6f/project/2828187)](https://github.com/akifdora/42kocaeli_piscine/tree/main/shell_00)  |  
 
 ### Yararlı Linkler
 - https://explainshell.com -> Shell kodlarını detaylıca anlatan bir website
