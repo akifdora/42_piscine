@@ -3,6 +3,7 @@
 
 ## Alınan Puanlar
 **Puanlara tıklandığında o proje dosyalarına yönlendirilirsiniz!**<br>
+|   |   |   |   |   |
 |---|---|---|---|---|
 |   |   |   |   |   |
 |   |   |   |   |   |
