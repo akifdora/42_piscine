@@ -4,8 +4,9 @@
 ## Puan Tablosu
 | Proje Adı  | Alınan Puan  |   
 |---|---|
-| [c_02](https://github.com/akifdora/42kocaeli_piscine/tree/main/c_02)   | [![mdora's 42 C Piscine C 00 Score](https://badge42.vercel.app/api/v2/cl9e55uv500160gmf2vacqz6f/project/2839318)](https://github.com/akifdora/42kocaeli_piscine/tree/main/c_02)  | 
-| [c_01](https://github.com/akifdora/42kocaeli_piscine/tree/main/c_01)   | [![mdora's 42 C Piscine C 00 Score](https://badge42.vercel.app/api/v2/cl9e55uv500160gmf2vacqz6f/project/2838337)](https://github.com/akifdora/42kocaeli_piscine/tree/main/c_01)  | 
+| [c_03](https://github.com/akifdora/42kocaeli_piscine/tree/main/c_03)   | [![mdora's 42 C Piscine C 03 Score](https://badge42.vercel.app/api/v2/cl9e55uv500160gmf2vacqz6f/project/2850009)](https://github.com/akifdora/42kocaeli_piscine/tree/main/c_03)  | 
+| [c_02](https://github.com/akifdora/42kocaeli_piscine/tree/main/c_02)   | [![mdora's 42 C Piscine C 02 Score](https://badge42.vercel.app/api/v2/cl9e55uv500160gmf2vacqz6f/project/2839318)](https://github.com/akifdora/42kocaeli_piscine/tree/main/c_02)  | 
+| [c_01](https://github.com/akifdora/42kocaeli_piscine/tree/main/c_01)   | [![mdora's 42 C Piscine C 01 Score](https://badge42.vercel.app/api/v2/cl9e55uv500160gmf2vacqz6f/project/2838337)](https://github.com/akifdora/42kocaeli_piscine/tree/main/c_01)  | 
 | [c_00](https://github.com/akifdora/42kocaeli_piscine/tree/main/c_00)   | [![mdora's 42 C Piscine C 00 Score](https://badge42.vercel.app/api/v2/cl9e55uv500160gmf2vacqz6f/project/2833577)](https://github.com/akifdora/42kocaeli_piscine/tree/main/c_00)  | 
 | [shell_01](https://github.com/akifdora/42kocaeli_piscine/tree/main/shell_01)   | [![mdora's 42 C Piscine Shell 01 Score](https://badge42.vercel.app/api/v2/cl9e55uv500160gmf2vacqz6f/project/2838761)](https://github.com/akifdora/42kocaeli_piscine/tree/main/shell_01)  |  
 | [shell_00](https://github.com/akifdora/42kocaeli_piscine/tree/main/shell_00)   | [![mdora's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/cl9e55uv500160gmf2vacqz6f/project/2828187)](https://github.com/akifdora/42kocaeli_piscine/tree/main/shell_00)  |
