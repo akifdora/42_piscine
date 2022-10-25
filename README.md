@@ -15,4 +15,5 @@
 
 ## Yararlı Linkler
 - https://explainshell.com -> Shell kodlarını detaylıca anlatan bir website
+- https://www.w3schools.com/c/index.php -> C dilini anlatan bir website
 - https://pythontutor.com/c.html#mode=edit -> C kodlarını adım adım gösteren bir website
