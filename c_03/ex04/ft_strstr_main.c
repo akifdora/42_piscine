@@ -12,20 +12,20 @@
 
 #include <stdio.h>
 
-char    *ft_strstr(char *str, char *find)
+char    *ft_strstr(char *str, char *to_find)
 {
     int    i;
     int    j;
 
     i = 0;
-    if (find[0] == '\0')
+    if (to_find[0] == '\0')
         return (str);
     while (str[i])
     {
         j = 0;
-        while (str[i + j] == find[j] && str[i])
+        while (str[i + j] == to_find[j] && str[i])
         {
-            if (find[j + 1] == '\0')
+            if (to_find[j + 1] == '\0')
                 return (&str[i]);
             j++;
         }
@@ -37,6 +37,6 @@ char    *ft_strstr(char *str, char *find)
 int	main()
 {
 	char str[] = "42Kocaeli havuz öğrencisi Muhammed Akif DORA";
-	char find[] = "Muhammed";
-	printf("%s", ft_strstr(str, find));
+	char to_find[] = "Muhammed";
+	printf("%s", ft_strstr(str, to_find));
 }
