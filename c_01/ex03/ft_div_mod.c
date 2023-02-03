@@ -16,7 +16,7 @@ void	ft_div_mod(int a, int b, int *div, int *mod) // Fonksiyonumuzda 4 adet inte
 {
 	if (b != 0) // Eğer b parametresinin değeri 0'a eşit değilse
 	{
-		*div = a / b; // a parametresinin değerinin b parametresinin değerine bölümünden çıkan değeri div değişkenine veriyoruz.
-		*mod = a % b; // a parametresinin değerinin b parametresinin değerine modundan çıkan değeri div değişkenine veriyoruz.
+		*div = a / b; // a parametresinin değerinin b parametresinin değerine bölümünden çıkan değeri div değişkenine atıyoruz.
+		*mod = a % b; // a parametresinin değerinin b parametresinin değerine modundan çıkan değeri div değişkenine atıyoruz.
 	}
 }
