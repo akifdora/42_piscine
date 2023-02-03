@@ -12,11 +12,11 @@
 
 #include <unistd.h>
 
-void	ft_div_mod(int a, int b, int *div, int *mod)
+void	ft_div_mod(int a, int b, int *div, int *mod) // Fonksiyonumuzda 4 adet integer tipinde parametre gönderilmesini istiyoruz.
 {
-	if (b != 0)
+	if (b != 0) // Eğer b parametresinin değeri 0'a eşit değilse
 	{
-		*div = a / b;
-		*mod = a % b;
+		*div = a / b; // a parametresinin değerinin b parametresinin değerine bölümünden çıkan değeri div değişkenine veriyoruz.
+		*mod = a % b; // a parametresinin değerinin b parametresinin değerine modundan çıkan değeri div değişkenine veriyoruz.
 	}
 }
