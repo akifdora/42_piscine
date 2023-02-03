@@ -14,7 +14,7 @@
 
 void	ft_print_reverse_alphabet(void)
 {
-	int	say; // say adında bir integer değişken tanımlandı
+	int	say; // say adında bir integer değişken tanımlandı.
 
 	say = 122; // z harfinin ascii karşılığı
 	while (say >= 97) // a harfinin ascii karşılığı, say değişkeni bu sayıdan büyük veya eşit olduğu müddetçe bu döngüye girilecek
