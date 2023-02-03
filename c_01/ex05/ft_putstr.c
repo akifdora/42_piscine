@@ -12,7 +12,7 @@
 
 #include <unistd.h>
 
-void	ft_putstr(char *str) // Fonksiyonumuzda 1 adet char tipinde bir string parametresi gönderilmesini istiyoruz. Char tipindeki bu parametre pointer'lı olduğu için string halini alabiliyor.
+void	ft_putstr(char *str) // Fonksiyonumuzda 1 adet char tipinde bir str parametresi gönderilmesini istiyoruz. Char tipindeki bu parametre pointer'lı olduğu için string halini alabiliyor.
 {
 	int	n; // n adında integer tipinde bir değişken oluşturuyoruz.
 
