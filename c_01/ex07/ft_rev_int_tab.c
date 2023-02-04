@@ -27,6 +27,6 @@ void ft_rev_int_tab(int *tab, int size) // Fonksiyonumuzda 2 adet integer tipind
 		tab[b] = rev; // rev değişkeninin değerini tab parametresinin b değerindeki indekse veriyoruz.
 		a++; // a değişkeninin değerini 1 arttırıyoruz.
 		b--; // b değişkeninin değerini 1 azaltıyoruz.
-		// Bu işlem sonucunda [1,2,3,4] şeklinde sahip olduğumuz bir dizinin son çıktısı (projede istenilen durum ilk giren son çıkar olduğundan [4,3,2,1] olacaktır.
+		// Bu işlem sonucunda [1,2,3,4] şeklinde sahip olduğumuz bir dizinin son çıktısı (projede istenilen durum ilk giren son çıkar olduğundan) [4,3,2,1] olacaktır.
 	}
 }
