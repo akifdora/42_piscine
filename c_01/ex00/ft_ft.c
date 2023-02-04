@@ -12,7 +12,7 @@
 
 #include <unistd.h>
 
-void	ft_ft(int *nbr)
+void	ft_ft(int *nbr) // Fonksiyonumuzda 1 adet integer tipinde parametre gönderilmesini istiyoruz.
 {
-	*nbr = 42;
+	*nbr = 42; // Pointer nbr (yani nbr değişkeninin adresi) değerini 42 yapıyoruz.
 }
