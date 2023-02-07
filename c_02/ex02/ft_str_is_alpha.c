@@ -21,8 +21,8 @@ int	ft_str_is_alpha(char *str) // Fonksiyonumuzda 1 adet char tipinde parametre 
 	}
 	while (str[i]) // str değişkeninin i değerindeki indeksi varsa döngüye giriyoruz.
 	{
-		if ((str[i] >= 'A' && str[i] <= 'Z') // str değişkeninin i değerindeki indeksi büyük A harfinden büyükse/eşitse ve büyük Z harfinden küçükse/eşitse ya da küçük a harfinden büyükse/eşitse ve küçük z harfinden küçükse/eşitse bu koşula giriyoruz.
-			|| (str[i] >= 'a' && str[i] <= 'z'))
+		if ((str[i] >= 'A' && str[i] <= 'Z')
+			|| (str[i] >= 'a' && str[i] <= 'z')) // str değişkeninin i değerindeki indeksi büyük A harfinden büyükse/eşitse ve büyük Z harfinden küçükse/eşitse ya da küçük a harfinden büyükse/eşitse ve küçük z harfinden küçükse/eşitse bu koşula giriyoruz.
 			i++; // i değerini 1 arttırıyoruz.
 		else // if koşulu tutmuyorsa buraya giriyoruz.
 			return (0); // 0 döndürüp ekrana yazdırıyoruz.
