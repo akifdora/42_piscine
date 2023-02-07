@@ -10,18 +10,18 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-int	ft_str_is_uppercase(char *str)
+int	ft_str_is_uppercase(char *str) // Fonksiyonumuzda 1 adet char tipinde parametre gönderilmesini istiyoruz.
 {
-	int	i;
+	int	i; // i adında integer bir değişken tanımlıyoruz.
 
-	i = 0;
-	while (str[i])
+	i = 0; // i değerini 0'a eşitliyoruz.
+	while (str[i]) // str değişkeninin i değerindeki indeksi varsa bu döngüye giriyoruz.
 	{
-		if (!(str[i] >= 'A' && str[i] <= 'Z'))
+		if (!(str[i] >= 'A' && str[i] <= 'Z')) // str değişkeninin i değerindeki indeksi büyük A harfinden büyük/eşit değilse ve büyük Z harfinden küçük/eşit değilse bu koşula giriyoruz.
 		{
-			return (0);
+			return (0); // 0 döndürüp ekrana yazdırıyoruz.
 		}
-		i++;
+		i++; // i değerini 1 arttırıyoruz.
 	}
-	return (1);
+	return (1); // 1 döndürüp ekrana yazdırıyoruz.
 }
