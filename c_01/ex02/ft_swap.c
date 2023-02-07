@@ -16,8 +16,8 @@ void	ft_swap(int *a, int *b) // Fonksiyonumuzda 2 adet integer tipinde parametre
 {
 	int	tmp; // tmp adında integer tipinde bir değişken oluşturuyoruz.
 
-	tmp = *a; // Fonksiyonda gönderilen a parametresinin değerini tmp değişkenine veriyoruz.
-	*a = *b; // Fonksiyonda gönderilen b parametresinin değerini a değişkenine veriyoruz.
-	*b = tmp; // İlk başta a parametresinden gelen değeri tmp'ye göndermiştik şimdi de tmp değerini b değişkenine veriyoruz.
+	tmp = *a; // Fonksiyonda gönderilen a parametresinin değerini tmp değişkenine eşitliyoruz.
+	*a = *b; // Fonksiyonda gönderilen b parametresinin değerini a değişkenine eşitliyoruz.
+	*b = tmp; // İlk başta a parametresinden gelen değeri tmp'ye göndermiştik şimdi de tmp değerini b değişkenine eşitliyoruz.
 	// Ve bu sayede fonksiyonda gönderilen a parametresindeki değer ile b parametresindeki değer yer değiştirmiş oluyor.
 }
