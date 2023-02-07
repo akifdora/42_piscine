@@ -22,7 +22,7 @@ char	*ft_strcat(char *dest, char *src) // Fonksiyonumuzda 2 adet char tipinde pa
 	while (src[y]) // src değişkeninin y değerindeki indeksi varsa bu koşula giriyoruz.
 	{
 		dest[x + y] = src[y]; // src değişkenin y değerindeki indeksini dest değişkeninin x ve y değerinin toplamındaki indeksine eşitliyoruz.
-		y++; // y değerini bir arttırıyoruz.
+		y++; // y değerini 1 arttırıyoruz.
 	}
 	dest[x + y] = '\0'; // dest değişkeninin x ve y değerinin toplamındaki indeksini boşluğa eşitliyoruz.
 	return (dest); // dest değişkeninin değerini döndürüp ekrana yazdırıyoruz.
