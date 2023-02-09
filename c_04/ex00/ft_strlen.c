@@ -10,12 +10,14 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-int	ft_strlen(char *str)
+int	ft_strlen(char *str) // Fonksiyonumuzda 1 adet char tipinde bir string parametresi gönderilmesini istiyoruz. Char tipindeki bu parametre pointer'lı olduğu için string halini alabiliyor.
 {
-	int	i;
+	int	i; // n adında integer tipinde bir değişken oluşturuyoruz.
 
-	i = 0;
-	while (str[i])
-		i++;
-	return (i);
+	i = 0; // n'in değerini 0'a eşitliyoruz.
+	while (str[i] != '\0') // Eğer string değişkeninin n değerindeki indeksini boşluğa eşit değilse bir döngüye giriyoruz.
+	{
+		i++; // n değişkeninin değerini 1 arttırıyoruz.
+	}
+	return (i); // n değerini döndürüyoruz ve bu sayede ekranda n değeri kaçsa o çıktıyı görüyoruz.
 }
