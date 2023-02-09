@@ -28,5 +28,5 @@ int	main()
 
 	ft_sort_int_tab(tab, size);
 	printf("%d, %d, %d, %d, %d, %d", tab[0], tab[1], tab[2], tab[3], tab[4], tab[5]); 
-	return (0)
+	return (0);
 }
