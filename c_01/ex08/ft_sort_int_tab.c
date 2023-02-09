@@ -15,7 +15,7 @@ void	ft_sort_int_tab(int *tab, int size) // Fonksiyonumuzda 2 adet integer tipin
 	int	i; // i adında integer tipinde bir değişken oluşturuyoruz.
 	int	swap; // swap adında integer tipinde bir değişken oluşturuyoruz.
 
-	while (size >= 0) // size değişkeninin değeri 0'dan büyükse/eşitse bu döngüye giriyoruz.
+	while (size >= 0) // size değişkeninin değeri 0'dan büyükse/eşitse bu döngüye giriyoruz
 	{
 		i = 0; // i değerini 0'a eşitliyoruz.
 		while (i < size - 1) // i değişkeninin değeri size değişkeninin değerinin 1 eksiğinden küçükse bu döngüye giriyoruz.
