@@ -1,7 +1,7 @@
 # 42Kocaeli Piscine
 ![mdora's 42 stats](https://badge42.vercel.app/api/v2/cl9e55uv500160gmf2vacqz6f/stats?cursusId=9&coalitionId=piscine)
 
-## Puan Tablom
+## Proje Listesi
 | Proje Adı  | Alınan Puan  |   
 |---|---|
 | [c_06](https://github.com/akifdora/42kocaeli_piscine/tree/main/c_06)   | HAVUZ SONRASI | 
