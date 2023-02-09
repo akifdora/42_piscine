@@ -4,6 +4,7 @@
 ## Puan Tablom
 | Proje Adı  | Alınan Puan  |   
 |---|---|
+| [c_05](https://github.com/akifdora/42kocaeli_piscine/tree/main/c_05)   | HAVUZ SONRASI | 
 | [c_04](https://github.com/akifdora/42kocaeli_piscine/tree/main/c_04)   | [![mdora's 42 C Piscine C 03 Score](https://badge42.vercel.app/api/v2/cl9e55uv500160gmf2vacqz6f/project/2857550)](https://github.com/akifdora/42kocaeli_piscine/tree/main/c_04)  | 
 | [c_03](https://github.com/akifdora/42kocaeli_piscine/tree/main/c_03)   | [![mdora's 42 C Piscine C 03 Score](https://badge42.vercel.app/api/v2/cl9e55uv500160gmf2vacqz6f/project/2850009)](https://github.com/akifdora/42kocaeli_piscine/tree/main/c_03)  | 
 | [c_02](https://github.com/akifdora/42kocaeli_piscine/tree/main/c_02)   | [![mdora's 42 C Piscine C 02 Score](https://badge42.vercel.app/api/v2/cl9e55uv500160gmf2vacqz6f/project/2839318)](https://github.com/akifdora/42kocaeli_piscine/tree/main/c_02)  | 
